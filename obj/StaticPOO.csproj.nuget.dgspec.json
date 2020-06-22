@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HOME\\Documents\\static\\StaticPOO.csproj": {}
+    "C:\\Users\\HOME\\Documents\\StaticPOO\\StaticPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HOME\\Documents\\static\\StaticPOO.csproj": {
+    "C:\\Users\\HOME\\Documents\\StaticPOO\\StaticPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Documents\\static\\StaticPOO.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Documents\\StaticPOO\\StaticPOO.csproj",
         "projectName": "StaticPOO",
-        "projectPath": "C:\\Users\\HOME\\Documents\\static\\StaticPOO.csproj",
+        "projectPath": "C:\\Users\\HOME\\Documents\\StaticPOO\\StaticPOO.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Documents\\static\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Documents\\StaticPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"
